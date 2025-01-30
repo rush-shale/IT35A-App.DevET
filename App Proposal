@@ -1,33 +1,40 @@
 GOALS 
-The Sustainable Development Goals (SDGs) of the United Nations offers a framework that allows for innovative responses to the problems of global interest. Implementing the SDGs in apps creates socially conscious solutions that meet specific needs or respond to relevant problems. Their influence is maximized by the open-source development groups.
+This proposed app aims to modernize grocery shopping, reduce food waste, and promote sustainable consumption.
+It is designed to connect consumers with fresh produce, support local suppliers, and enable informed purchasing decisions.
+The app aligns with the following Sustainable Development Goals (SDGs):
 
-   ROLES
-   Web and mobile application developers are vital to the design of solutions with social impact. Their applications have to be designed in a way that is user-centered and has ethical considerations. Playing this role encourages technical innovation that is socially conscious.
-    
-    AUDIENCE
-    An application must be designed for the appropriate target audience in order to be successful. Targeted applications attract and engage specific demographics. Involving stakeholders ensures that the solution is exactly what the end-user needs..
+SDG 12 (Responsible Consumption and Production): Encouraging mindful shopping and efficient resource use.
+SDG 2 (Zero Hunger): Minimizing food waste and supporting food security initiatives.
+SDG 13 (Climate Action): Promoting eco-friendly grocery options and reducing the carbon footprint of supply chains.
+Audience
 
-    SITUATION
-  Applications are sure to be relevant and meaningful when context is provided in real life. Applications that are environmentally, socially, and economically conscious have more impact. Context-driven development supports the goals of the SDGs.
+AUDIENCE 
+Consumers
+Retailers
+Governments & NGOs
 
-      PRODUCT/PERFORMANCE/OUTPUT
-      A multidisciplinary approach is required to produce applications that are both technically sound and socially responsible. Ethical computing and best practices in software engineering are crucial. Multidisciplinary cooperation produces significant results.
+SITUATION 
 
-      Objective:
-Literature indicates that clearly defining the purpose of an application improves its development process and stakeholder alignment (McConnell, 2004). Applications with well-defined objectives are more likely to achieve their intended outcomes (Nielsen, 2012).
+Food Waste: Unused products and inefficient stock management contribute to significant food waste.
+Limited Access to Fresh Produce: Consumers may struggle to access fresh, local, and seasonal products.
 
-Key SDGs Targeted:
-Research shows that aligning applications with specific SDGs increases their impact and relevance (UNESCO, 2020). Studies have documented successful case studies where apps contributed to SDG goals such as quality education (SDG 4) and climate action (SDG 13) (Thompson et al., 2021).
+Environmental Impact: Traditional supply chains contribute to high carbon emissions.
+This app addresses these challenges by offering smart inventory management, direct connections to local suppliers, and sustainability-focused features.
 
-PROPOSAL ELEMENTS AND RESEARCH EVIDENCE 
-Key Features:
-Effective applications often include features that directly address user needs and align with SDGs (Benyon et al., 2013). For instance, educational apps may feature interactive learning modules, while healthcare apps offer real-time health monitoring (Panch et al., 2019).
+Technology offers innovative solutions to minimize food waste and enhance sustainability in the grocery industry.
+From improving supply chain management to empowering consumers, technology plays a vital role in creating a more efficient and environmentally friendly, food processing system.
 
-Technical Architecture:
-Research emphasizes the importance of clear and scalable technical architecture in application development (Bass et al., 2003). Diagrams and design models help developers visualize and communicate complex systems (Clements et al., 2010).
+Products/Performance/Output
+ Objective:
+The proposed app is a mobile and web platform that simplifies grocery shopping, minimizes waste, and promotes sustainable consumption.
 
-Research and Evidence:
-A comprehensive review of literature, research papers, and external references strengthens the development process by providing evidence-based insights (Webster & Watson, 2002). Incorporating existing research ensures that applications are built on proven concepts and methodologies (Kitchenham et al., 2009).
+*Key SDGs Targeted:
+Many platforms also enhance their shopping experience by providing consumers with recipes and meal planning ideas. This helps shoppers get the most out of their order, while minimizing waste at home.
+By using consumer preferences, promoting conscious buying habits and offering practical solutions for meal preparation, online grocery platforms play a pivotal role in reducing food waste and fostering sustainability.
+
+*Research and Evidence:
+Digital Solutions for Sustainable Grocery Shopping
+(https://www.locate2u.com/retail/technology-role-sustainable-grocery-shopping/)
 
 
 
